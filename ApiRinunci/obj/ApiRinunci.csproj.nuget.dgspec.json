@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevNovo\\Projetos 2023\\Crud3\\ApiRinunci\\ApiRinunci\\ApiRinunci.csproj": {}
+    "C:\\DevNovo\\Teste\\TesteClone2\\ApiAngular2\\ApiRinunci\\ApiRinunci.csproj": {}
   },
   "projects": {
-    "C:\\DevNovo\\Projetos 2023\\Crud3\\ApiRinunci\\ApiRinunci\\ApiRinunci.csproj": {
+    "C:\\DevNovo\\Teste\\TesteClone2\\ApiAngular2\\ApiRinunci\\ApiRinunci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevNovo\\Projetos 2023\\Crud3\\ApiRinunci\\ApiRinunci\\ApiRinunci.csproj",
+        "projectUniqueName": "C:\\DevNovo\\Teste\\TesteClone2\\ApiAngular2\\ApiRinunci\\ApiRinunci.csproj",
         "projectName": "ApiRinunci",
-        "projectPath": "C:\\DevNovo\\Projetos 2023\\Crud3\\ApiRinunci\\ApiRinunci\\ApiRinunci.csproj",
+        "projectPath": "C:\\DevNovo\\Teste\\TesteClone2\\ApiAngular2\\ApiRinunci\\ApiRinunci.csproj",
         "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "C:\\DevNovo\\Projetos 2023\\Crud3\\ApiRinunci\\ApiRinunci\\obj\\",
+        "outputPath": "C:\\DevNovo\\Teste\\TesteClone2\\ApiAngular2\\ApiRinunci\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
