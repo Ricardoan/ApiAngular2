@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MSMnuDcKhK5oGfTvYBcb3HxXYlq0V09yW6rOScznKiYrmLt+HaWYDHWeYmLaWtU6H/N8ftvn1k+vxx6+UKcDNA==",
+  "dgSpecHash": "MQZ4ZD7R3l1aa+uYDgeEfFXeoU1C9K8orPWDYxiv392VLYE45WoA1GUOw8svkF1TPbhIYO1M0w50juIbRwWsDg==",
   "success": true,
-  "projectFilePath": "C:\\DevNovo\\Projetos 2023\\Crud3\\ApiRinunci\\ApiRinunci\\ApiRinunci.csproj",
+  "projectFilePath": "C:\\DevNovo\\Teste\\TesteClone2\\ApiAngular2\\ApiRinunci\\ApiRinunci.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricar\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
