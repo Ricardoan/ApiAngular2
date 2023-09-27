@@ -8,5 +8,7 @@ namespace ApiRinunci.Models
         [Required]
         [StringLength(255)]
         public string nomeEstado { get; set; }
+
+        public string Codigo{ get; set; }
     }
 }
